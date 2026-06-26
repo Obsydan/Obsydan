@@ -5,7 +5,7 @@
 <h1 align="center">👋 Bonjour, moi c'est Paul Ebondo (Obsydan)</h1>
 
 <p align="center">
-Développeur logiciel passionné par la conception et le développement d'applications backend modernes.
+Jeune ingénieur logiciel passionné par la conception de systèmes d'information, le développement backend et la création de solutions numériques fiables et évolutives.
 </p>
 
 <p align="center">
@@ -23,13 +23,13 @@ Développeur logiciel passionné par la conception et le développement d'applic
 
 ---
 
-## 🚀 À propos de moi
+## 👨‍💻 À propos de moi
 
-Je suis un développeur logiciel passionné par le développement backend et la conception de solutions numériques.
+Diplômé en **Génie Informatique** (BAC+4), spécialisation **Génie Logiciel**, avec **mention B (Très Bien)**.
 
-☕ Java est mon langage de prédilection, notamment avec Spring Boot. Je développe également des applications en PHP et Python selon les besoins des projets.
+Je développe principalement des applications backend avec **Java** et **Spring Boot**, tout en réalisant également des applications en **PHP** et **Python** selon les besoins des projets.
 
-J'aime concevoir des applications fiables, maintenables et évolutives, tout en continuant à approfondir mes connaissances en architecture logicielle et en génie logiciel.
+Je m'intéresse particulièrement à l'architecture logicielle, aux systèmes d'information, aux applications métier et aux solutions intégrant l'intelligence artificielle.
 
 ---
 
@@ -38,7 +38,7 @@ J'aime concevoir des applications fiables, maintenables et évolutives, tout en 
 <p align="center">
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,spring,php,python,postgres,mysql,git,github,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=java,spring,php,python,postgres,mysql,git,github,vscode&perline=9"/>
 
 </a>
 
@@ -55,20 +55,35 @@ J'aime concevoir des applications fiables, maintenables et évolutives, tout en 
 | Bases de données | PostgreSQL • MySQL |
 | Outils | Git • GitHub |
 | Modélisation | UML |
-| Intelligence Artificielle | APIs IA • Automatisation |
+| IA | APIs IA • Automatisation |
 
 ---
 
-## 🌱 En ce moment
+## 🚀 Projets
 
-- Approfondissement de Spring Boot
-- Architecture logicielle et bonnes pratiques backend
-- Développement de projets personnels
-- Intégration de fonctionnalités IA dans les applications
+### 🚚 FleetTrack *(Projet de fin d'études)*
+
+Plateforme de géolocalisation et de suivi de véhicules en temps réel destinée aux entreprises de transport et de logistique.
+
+Développée dans le cadre de mon projet de fin d'études, cette solution permet de suivre en temps réel la position des véhicules grâce à une application mobile de collecte GPS, un backend Java Spring Boot et une interface web de supervision.
+
+**Technologies**
+
+* Java
+* Spring Boot
+* Firebase Realtime Database
+* REST API
+
+**Fonctionnalités**
+
+* 📍 Géolocalisation en temps réel
+* 🚚 Suivi de flotte de véhicules
+* 📡 Synchronisation des positions GPS
+* 🌐 Tableau de bord web
+* 📊 Historique des positions
+
 
 ---
-
-## 🚀 Quelques projets
 
 ### 🌾 ShambaFlo
 
@@ -76,33 +91,55 @@ ERP moderne destiné à la gestion des fermes multifonctionnelles.
 
 **Technologies**
 
-- Java
-- Spring Boot
-- PostgreSQL
-- REST API
+* Python
+* Django REST
+* PostgreSQL
+
+---
+
+### 🛒 KokambaPro
+
+ERP / CRM destiné aux magasins spécialisés dans la vente de produits électroniques.
+
+**Fonctionnalités**
+
+* Gestion des ventes
+* Gestion des stocks
+* Gestion des clients
+* Tableau de bord
+* Reporting
 
 ---
 
 ### 🖨️ MoniLey PrintPortal
 
-Plateforme de gestion d'impression avec portail client et application opérateur.
+Solution de gestion d'impression avec portail client et application opérateur.
 
 **Technologies**
 
-- Spring Boot
-- JavaFX
-- PostgreSQL
-- WebSocket
+* Spring Boot
+* JavaFX
+* PostgreSQL
+* WebSocket
+
+---
+
+## 🌱 En ce moment
+
+* Approfondissement de Spring Boot
+* Architecture logicielle
+* Développement de projets personnels
+* Intégration de fonctionnalités IA dans les applications
 
 ---
 
 ## 🤝 Ouvert à
 
-- Opportunités professionnelles
-- Collaborations Open Source
-- Développement backend
-- Freelance
-- Échanges techniques
+* Opportunités professionnelles
+* Collaborations Open Source
+* Développement backend
+* Freelance
+* Échanges techniques
 
 ---
 
@@ -124,6 +161,6 @@ Plateforme de gestion d'impression avec portail client et application opérateur
 
 <p align="center">
 
-> *"Always learning. Always building."*
+<i>"Always learning. Always building."</i>
 
 </p>
