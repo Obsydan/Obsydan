@@ -5,7 +5,9 @@
 <h1 align="center">👋 Bonjour, moi c'est Paul Ebondo (Obsydan)</h1>
 
 <p align="center">
-Ingénieur logiciel passionné par la conception de systèmes d'information, le développement backend et la création de solutions numériques fiables et évolutives.
+Software Engineer
+
+Je conçois des systèmes d'information, des applications backend et des produits numériques évolutifs, en mettant l'accent sur la qualité, la maintenabilité et les besoins métier.
 </p>
 
 <p align="center">
