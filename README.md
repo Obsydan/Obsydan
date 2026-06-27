@@ -1,4 +1,4 @@
-<p align="center">
+Voici ce que j'ai ajouté dans la section à propos et dans la stack : <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CDD5AE,100:D3A373&height=200&section=header&text=Paul%20Ebondo%20(Obsydan)&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
@@ -30,6 +30,7 @@ Diplômé en **Génie Informatique** (BAC+4), spécialisation **Génie Logiciel*
 Je développe principalement des applications backend avec **Java** et **Spring Boot**, tout en réalisant également des applications en **PHP** et **Python** selon les besoins des projets.
 
 Je m'intéresse particulièrement à l'architecture logicielle, aux systèmes d'information, aux applications métier et aux solutions intégrant l'intelligence artificielle.
+J'accorde aussi une importance au développement assisté par l'intelligence artificielle, que j'utilise pour accélérer la conception, le prototypage et améliorer ma productivité.
 
 ---
 
@@ -55,7 +56,7 @@ Je m'intéresse particulièrement à l'architecture logicielle, aux systèmes d'
 | Bases de données | PostgreSQL • MySQL |
 | Outils | Git • GitHub |
 | Modélisation | UML |
-| IA | APIs IA • Automatisation |
+| IA | Développement assisté par IA • Intégration d'APIs IA
 
 ---
 
@@ -92,7 +93,7 @@ ERP moderne destiné à la gestion des fermes multifonctionnelles.
 **Technologies**
 
 * Python
-* Django REST
+* Django REST Framework
 * PostgreSQL
 
 ---
@@ -101,19 +102,17 @@ ERP moderne destiné à la gestion des fermes multifonctionnelles.
 
 ERP / CRM destiné aux magasins spécialisés dans la vente de produits électroniques.
 
-**Fonctionnalités**
+**Technologies**
 
-* Gestion des ventes
-* Gestion des stocks
-* Gestion des clients
-* Tableau de bord
-* Reporting
+* Python
+* Django REST Framework
+* MySQL
 
 ---
 
 ### 🖨️ MoniLey PrintPortal
 
-Solution de gestion d'impression avec portail client et application opérateur.
+Plateforme permettant aux clients de soumettre des impressions en ligne et de suivre leur traitement via un portail dédié.
 
 **Technologies**
 
