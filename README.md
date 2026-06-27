@@ -1,4 +1,4 @@
-Voici ce que j'ai ajouté dans la section à propos et dans la stack : <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CDD5AE,100:D3A373&height=200&section=header&text=Paul%20Ebondo%20(Obsydan)&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
