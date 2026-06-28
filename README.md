@@ -27,7 +27,7 @@ Je conçois des systèmes d'information, des applications backend et des produit
 
 ## 👨‍💻 À propos de moi
 
-Diplômé en **Génie Informatique** (BAC+4), spécialisation **Génie Logiciel**.
+Diplômé en **Génie Informatique** (BAC+4), spécialisation **Génie Logiciel** à **l'Université Protestante de Lubumbashi (UPL)**.
 
 Je développe principalement des applications backend avec **Java** et **Spring Boot**, tout en réalisant également des applications en **PHP** et **Python** selon les besoins des projets.
 
